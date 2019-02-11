@@ -25,9 +25,6 @@ The projects rely on Ansible and Docker for services/infrastructure deployment a
 * [Webmin](http://www.webmin.com/)
 
 
-## Architecture
-![General Architecture](docs/assets/images/arch.jpg)
-So in general terms, we will have to edit the config file, which will have specific information about our setup. And then 
 
 ## Requirements
 
